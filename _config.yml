@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Izikiel
+tagline:          'A Jekyll theme'
+description:      'Computer Science student, interested in OS, gpgpu, hpc, and fpga'
+url:              http://Izikiel.com
+
+author:
+  name:           'Ezequiel Dario Gambaccini'
+  url:            https://twitter.com/e_gambaccini
+
+paginate:         2
+
+# Custom vars
+projects:		  /projects
+github:	           https://github.com/Izikiel
